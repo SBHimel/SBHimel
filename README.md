@@ -36,7 +36,7 @@ I am a passionate web development student currently pursuing a **Diploma in Comp
 
 ### 📜 A Slice of My Philosophy:
 <p align="center">
-<i>"Suman jodi onner, chintadhara jodi onner, tobe ami kisher ami?"</i> — <br>
+<i>"Somman jodi onner, chintadhara jodi onner, tobe ami kisher ami?"</i> — <br>
 <b>"গল্পটা কাল্পনিক, প্রকাশ্যে আমি ভাসি, মৃত্যুটা নিশ্চিত, তা-ও অম্লতা দেখি।"</b>
 </p>
 
