@@ -23,8 +23,8 @@ I am a passionate web development student currently pursuing a *Diploma in Compu
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
-| **IdeaVault** | Next.js 15, Tailwind, HeroUI, Express, MongoDB | [Live](https://ideavault-inky.vercel.app) |
 | **SkillSwap** | Next.js, HeroUI, Tailwind, Better Auth | [Live](https://skillswap-client-one.vercel.app/) |
+| **IdeaVault** | Next.js 15, Tailwind, HeroUI, Express, MongoDB | [Live](https://ideavault-inky.vercel.app) |
 | **Pixen Studio** | React, Framer Motion, Tailwind | [Live](https://pixen-studio.netlify.app/) |
 | **Dragon News** | Next.js, Tailwind, Rest API | [Live](https://dragon-news-project-in-next.vercel.app/) |
 
