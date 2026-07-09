@@ -2,17 +2,20 @@
 
 # Hi ✌️, I'm S.B. Himel 🇧🇩
 
-### 🚀 Full Stack Web Developer | MERN Stack & Next.js Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=I+am+a+MERN+Stack+Developer;I+am+a+Creative+Poet;I+am+a+Next.js+Expert;I+am+a+Computer+Science+Student" alt="Typing Animation" />
+</p>
+
 I am a passionate web development student currently pursuing a **Diploma in Computer Technology** at **Brahmanbaria Polytechnic Institute** (5th Semester). I love building scalable, user-friendly web applications and exploring the deep philosophy behind code and life.
 
 ---
 
-### 💫 About Me:
-- 🎓 Currently in the 3rd year of my Diploma journey.
--## 🚀 Full Stack Web Developer | MERN Stack & Next.js Enthusiast
-- ✍️ Beyond coding, I write emotional and philosophical poetry/shayeri to express my inner thoughts.
-- 🛠️ I have a keen interest in PC hardware optimization and performance.
-- 📫 Reach me at: s.b.himel21@gmail.com
+### 💫 About Me (Who I Am):
+- 🎓 **The Tech Journey:** Crafting digital experiences as a 3rd-year Computer Science & Technology student.
+- 💻 **Code Ecosystem:** Deeply invested in building modern web apps using the *MERN Stack* & *Next.js*.
+- ✍️ **The Soul of a Poet:** When I'm not debugging code, I capture life's raw emotions and philosophy through deep poetry and *shayeri*.
+- 🛠️ **Hardware Enthusiast:** Addicted to PC optimization, hardware tweaking, and squeezing out peak performance.
+- 📫 **Direct Line:** Drop me an email at `s.b.himel21@gmail.com`
 
 ---
 
