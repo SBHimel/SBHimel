@@ -16,6 +16,7 @@ I am a passionate web development student currently pursuing a *Diploma in Compu
 - ✍️ **The Soul of a Poet:** When I'm not debugging code, I capture life's raw emotions and philosophy through deep poetry and *shayeri*.
 - 🛠️ **Hardware Enthusiast:** Addicted to PC optimization, hardware tweaking, and squeezing out peak performance.
 - 📫 **Direct Line:** Drop me an email at s.b.himel21@gmail.com
+- - 🏆 **Major Milestones:** Selected for Programming Hero's **EJP (Exclusive Junior Developer)** track & qualified for **SCIC (Super Charged Intensive Camp)** based on core performance.
 
 ---
 
@@ -69,3 +70,12 @@ I am a passionate web development student currently pursuing a *Diploma in Compu
 </p>
 
 ---
+
+---
+
+### 🏆 Achievements & Recognitions:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/EJP%20Selected-Exclusive%20Junior%20Developer-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" alt="EJP" />
+  <img src="https://img.shields.io/badge/SCIC%20Qualified-Super%20Charged%20Intensive%20Camp-00FFCC?style=for-the-badge&logo=probot&logoColor=black" alt="SCIC" />
+</p>
