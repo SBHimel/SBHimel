@@ -3,10 +3,10 @@
 # Hi ✌️, I'm S.B. Himel 🇧🇩
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=I+am+a+MERN+Stack+Developer;I+am+a+Creative+Poet;I+am+a+Next.js+Expert;I+am+a+Tech+Enthusiast;I+am+a+Problem+Solver;I+am+a+Computer+Science+Student" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=I+am+a+MERN+Stack+Developer;I+am+a+Creative+Poet;I+am+a+Next.js+Expert;I+am+a+Tech+Enthusiast;I+am+a+Problem+Solver;I+am+a+Computer+Science+Student" alt="Typing Animation" />
 </p>
 
-I am a passionate web development student currently pursuing a **Diploma in Computer Technology** at **Brahmanbaria Polytechnic Institute** (5th Semester). I love building scalable, user-friendly web applications and exploring the deep philosophy behind code and life.
+I am a passionate web development student currently pursuing a *Diploma in Computer Technology* at *Brahmanbaria Polytechnic Institute* (5th Semester). I love building scalable, user-friendly web applications and exploring the deep philosophy behind code and life.
 
 ---
 
@@ -15,35 +15,25 @@ I am a passionate web development student currently pursuing a **Diploma in Comp
 - 💻 **Code Ecosystem:** Deeply invested in building modern web apps using the *MERN Stack* & *Next.js*.
 - ✍️ **The Soul of a Poet:** When I'm not debugging code, I capture life's raw emotions and philosophy through deep poetry and *shayeri*.
 - 🛠️ **Hardware Enthusiast:** Addicted to PC optimization, hardware tweaking, and squeezing out peak performance.
-- 📫 **Direct Line:** Drop me an email at `s.b.himel21@gmail.com`
+- 📫 **Direct Line:** Drop me an email at s.b.himel21@gmail.com
 
----
-
-### 🛠️ Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,mongodb,express,firebase,figma,netlify" />
-</p>
 ---
 
 ### 📂 Featured Projects:
+
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
-| **Tiles Gallery** | React, CSS | [Live](https://tiles-gallery-opal.vercel.app/) |
-| **Pixen Studio** | React, Framer Motion | [Live](https://pixen-pearl.vercel.app/) |
-| **Dragon News** | Next.js, Tailwind | [Live](https://dragon-news-project-in-next.vercel.app/) |
-| **Keen Keeper** | MERN Stack | [Live](https://keen-keeper-created-by-himel.netlify.app/) |
-
----
+| **IdeaVault** | Next.js 15, Tailwind, HeroUI, Express, MongoDB | [Live](https://ideavault-inky.vercel.app) |
+| **SkillSwap** | Next.js, HeroUI, Tailwind, Better Auth | [Live](https://skillswap-client-one.vercel.app/) |
+| **Pixen Studio** | React, Framer Motion, Tailwind | [Live](https://pixen-studio.netlify.app/) |
+| **Dragon News** | Next.js, Tailwind, Rest API | [Live](https://dragon-news-project-in-next.vercel.app/) |
 
 ---
 
 ### 📜 A Slice of My Philosophy:
-<p align="center">
-<i>"Somman jodi onner, chintadhara jodi onner, tobe ami kisher ami?"</i> — <br>
-<b>"গল্পটা কাল্পনিক, প্রকাশ্যে আমি ভাসি, মৃত্যুটা নিশ্চিত, তা-ও অম্লতা দেখি।"</b>
-</p>
 
----
+> *"Somman jodi onner, chintadhara jodi onner, tobe ami kisher ami?"*  
+> *"গল্পটা কাল্পনিক, প্রকাশ্যে আমি ভাসি, মৃত্যুটা নিশ্চিত, তা-ও অম্লতা দেখি।"*
 
 
 ---
