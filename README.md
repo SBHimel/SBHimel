@@ -3,7 +3,7 @@
 # Hi ✌️, I'm S.B. Himel 🇧🇩
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=I+am+a+MERN+Stack+Developer;I+am+a+Creative+Poet;I+am+a+Next.js+Expert;I+am+a+Computer+Science+Student" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=I+am+a+MERN+Stack+Developer;I+am+a+Creative+Poet;I+am+a+Next.js+Expert;I+am+a+Tech+Enthusiast;I+am+a+Problem+Solver;I+am+a+Computer+Science+Student" alt="Typing Animation" />
 </p>
 
 I am a passionate web development student currently pursuing a **Diploma in Computer Technology** at **Brahmanbaria Polytechnic Institute** (5th Semester). I love building scalable, user-friendly web applications and exploring the deep philosophy behind code and life.
