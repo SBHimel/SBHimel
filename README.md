@@ -31,11 +31,12 @@ I am a passionate web development student currently pursuing a *Diploma in Compu
 
 ---
 
-### 📜 A Slice of My Philosophy:
+<h3 align="center">📜 A Slice of My Philosophy:</h3>
 
-> *"Somman jodi onner, chintadhara jodi onner, tobe ami kisher ami?"*  
-> *"গল্পটা কাল্পনিক, প্রকাশ্যে আমি ভাসি, মৃত্যুটা নিশ্চিত, তা-ও অম্লতা দেখি।"*
-
+<p align="center">
+  <em>"Somman jodi onner, chintadhara jodi onner, tobe ami kisher ami?"</em><br>
+  <strong>"গল্পটা কাল্পনিক, প্রকাশ্যে আমি ভাসি, মৃত্যুটা নিশ্চিত, তা-ও অম্লতা দেখি।"</strong>
+</p>
 
 ---
 
