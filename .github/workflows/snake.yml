@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # প্রতি ১২ ঘণ্টায় অটো আপডেট
-  workflow_dispatch:          # হাতে চালানোর বাটন
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
