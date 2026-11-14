@@ -100,7 +100,7 @@ I believe great software is a blend of <b>technical precision</b> and <b>artisti
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/SBHimel/SBHimel/main/assets/skill-meter.svg" alt="Skill Meter" width="90%" />
+<img src="https://raw.githubusercontent.com/SBHimel/SBHimel/main/skill-meter.svg" alt="Skill Meter" width="90%" />
 
 </div>
 
