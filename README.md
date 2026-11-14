@@ -1,11 +1,6 @@
 <!--
   PALETTE (matches portfolio):
-  BG        = 0F0720   (deep violet-navy)
-  CARD      = 1A0F2E
-  ORANGE    = F97316   (primary accent)
-  RED-ORNG  = FF5733   (gradient start)
-  PURPLE    = A855F7   (gradient end / secondary)
-  TEXT      = E5E7EB
+  BG 0F0720 | CARD 1A0F2E | ORANGE F97316 | RED-ORANGE FF5733 | PURPLE A855F7 | TEXT E5E7EB
 -->
 
 <!-- ═══════════════ HERO ═══════════════ -->
@@ -48,19 +43,9 @@ My journey started with a love for <b>PC hardware</b> and grew into building <b>
 I believe great software is a blend of <b>technical precision</b> and <b>artistic vision</b>.
 </p>
 
-```js
-const himel = {
-  name: "S.B. Himel",
-  role: "MERN Stack & Next.js Developer",
-  location: "Brahmanbaria, Bangladesh 🇧🇩",
-  education: "Diploma in CST — Brahmanbaria Polytechnic Institute (5th Sem)",
-  stack: ["MongoDB", "Express", "React", "Next.js", "Node.js"],
-  currentlyLearning: "Advanced Next.js patterns & Server Actions",
-  alsoInto: ["PC optimization ⚙️", "Hardware tweaking 🛠️", "Poetry & Shayeri ✍️"],
-  askMeAbout: ["MERN stack", "Next.js", "Auth & RBAC", "AI API integration"],
-  funFact: "I debug code by day and write poems by night 🌙",
-};
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SBHimel/SBHimel/main/assets/about-card.svg" alt="About Himel" width="90%" />
+</div>
 
 <br/>
 
@@ -113,24 +98,9 @@ const himel = {
 <img src="https://img.shields.io/badge/OpenRouter%20AI-A855F7?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter AI" />
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<h3 align="center">📈 Skill Meter</h3>
-
-<div align="center">
-
-```text
-HTML5        ████████████████████░  95%
-CSS3         ██████████████████░░░  90%
-Tailwind CSS ██████████████████░░░  90%
-React.js     █████████████████░░░░  85%
-MongoDB      ████████████████░░░░░  80%
-JavaScript   ████████████████░░░░░  80%
-Node/Express ███████████████░░░░░░  75%
-Next.js      ██████████████░░░░░░░  70%  ← leveling up 🔥
-```
+<img src="https://raw.githubusercontent.com/SBHimel/SBHimel/main/assets/skill-meter.svg" alt="Skill Meter" width="90%" />
 
 </div>
 
