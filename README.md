@@ -230,7 +230,11 @@ timeline
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SBHimel/SBHimel/output/github-snake.svg" alt="Contribution snake" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SBHimel/SBHimel/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SBHimel/SBHimel/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/SBHimel/SBHimel/output/github-snake-dark.svg" width="95%" />
+  </picture>
 </div>
 
 <br/>
