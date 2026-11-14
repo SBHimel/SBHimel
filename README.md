@@ -44,7 +44,7 @@ I believe great software is a blend of <b>technical precision</b> and <b>artisti
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SBHimel/SBHimel/main/assets/about-card.svg" alt="About Himel" width="90%" />
+  <img src="https://raw.githubusercontent.com/SBHimel/SBHimel/main/about-card.svg" alt="About Himel" width="90%" />
 </div>
 
 <br/>
