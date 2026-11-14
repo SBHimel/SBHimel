@@ -186,17 +186,7 @@ timeline
 
 <br/>
 
-<h3 align="center">🐍 Contribution Snake</h3>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SBHimel/SBHimel/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SBHimel/SBHimel/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/SBHimel/SBHimel/output/github-snake-dark.svg" width="95%" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 <h2 align="center">🏆 Achievements &amp; Recognitions</h2>
