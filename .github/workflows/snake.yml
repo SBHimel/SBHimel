@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # প্রতি ১২ ঘণ্টায় অটো আপডেট
+  workflow_dispatch:          # হাতে চালানোর বাটন
   push:
     branches: [main]
 
@@ -15,13 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=f97316&color_dots=1a0f2e,4a2340,8a3a50,d9561f,f97316
+            dist/github-snake-dark.svg?color_snake=f97316&color_dots=1a0f2e,4a2340,8a3a50,d9561f,f97316&color_dot_border=0f0720
+            dist/github-snake.svg?color_snake=c2410c&color_dots=ebedf0,fed7aa,fdba74,fb923c,f97316
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
