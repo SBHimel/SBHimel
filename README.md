@@ -182,15 +182,11 @@ timeline
 <br/>
 
 <!-- ═══════════════ STATS ═══════════════ -->
+<!-- ═══════════════ STATS ═══════════════ -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SBHimel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F0720&title_color=F97316&text_color=E5E7EB&icon_color=A855F7&ring_color=F97316" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SBHimel&layout=compact&hide_border=true&langs_count=8&bg_color=0F0720&title_color=F97316&text_color=E5E7EB" alt="Top languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=SBHimel&hide_border=true&background=0F0720&ring=F97316&fire=A855F7&currStreakLabel=F97316&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="GitHub streak" />
-  <br/><br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SBHimel&bg_color=0F0720&color=F97316&line=A855F7&point=ffffff&area=true&area_color=A855F7&hide_border=true&title_color=F97316" alt="Contribution graph" />
 </div>
 
 <br/>
