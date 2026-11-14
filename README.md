@@ -150,12 +150,7 @@ I believe great software is a blend of <b>technical precision</b> and <b>artisti
       <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></p>
       <a href="https://ideavault-inky.vercel.app/"><b>🔗 Live</b></a> &nbsp;|&nbsp; <a href="https://github.com/SBHimel/ideavault"><b>💻 Code</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📸 Pixen Studio</h3>
-      <p>High-performance professional photography marketplace — service CRUD, secure auth and real-time reviews.</p>
-      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></p>
-      <a href="https://pixen-studio.netlify.app/"><b>🔗 Live</b></a> &nbsp;|&nbsp; <a href="https://github.com/SBHimel/pixen"><b>💻 Code</b></a>
-    </td>
+  
   </tr>
 </table>
 
