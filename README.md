@@ -6,7 +6,13 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,50:C2569B,100:A855F7&height=270&section=header&text=S.B.%20Himel&fontSize=76&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=fadeIn&desc=Building%20the%20next%20generation%20of%20web%20interfaces%20with%20precision%20and%20passion&descSize=18&descAlignY=60" alt="S.B. Himel banner" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/SBHimel/SBHimel/main/github-banner.png"
+    width="100%"
+    alt="S.B. Himel - Full Stack Developer"
+  />
+</div>
 
 <img src="https://img.shields.io/badge/CURRENTLY%20SPECIALIZING%20IN-FULL--STACK%20DEV-F97316?style=for-the-badge&labelColor=1A0F2E" alt="Specializing in Full-Stack Dev" />
 
